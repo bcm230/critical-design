@@ -18,6 +18,12 @@ body {
 	width:100px;
 }
 
+.sidebar {
+	display: inline-block;
+	width; 300px;
+	vertical-align: top;
+}
+
 h1 {
 	font-family: "Roboto", sans-serif;
 }
